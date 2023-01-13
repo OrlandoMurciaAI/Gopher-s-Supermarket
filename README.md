@@ -6,7 +6,8 @@ This project is a simple simulation of a supermarket using the Go programming la
 Generates a list of customers with random names, ID, age, and address.
 Writes the entrance of the customers in a CSV file.
 Prints a greeting message for each customer.
-Getting Started
+
+## Getting Started
 To get started with the project, you will need to have Go installed on your computer. You can download the latest version of Go from the official website (https://golang.org/dl/).
 
 Once you have Go installed, you can clone the repository by running the following command:
