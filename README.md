@@ -1,4 +1,5 @@
 # Gopher's Supermarket
+![Gopher-Supermaket](https://user-images.githubusercontent.com/91997349/212475805-4f3fb973-29ee-48f5-a750-70b52910679b.png)
 
 This project is a simple simulation of a supermarket using the Go programming language. It is designed to help you practice and improve your Go skills by providing examples of various concepts and techniques.
 
